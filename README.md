@@ -1,1 +1,1 @@
-# improve-vision-github.io
+# improve-vision.github.io
